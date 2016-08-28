@@ -21,14 +21,14 @@ namespace FreshPad
 
         private void findBtn_Click(object sender, EventArgs e)
         {
-            for(int i = 0; i < freshpadForm.freshpadBox.Text.Length; i++)
+            /*for(int i = 0; i < freshpadForm.freshpadBox.Text.Length; i++)
             {
                 if (freshpadFindTxt.Text == freshpadForm.freshpadBox.Text)
                 {
                     freshpadForm.freshpadBox.SelectionStart = 0;
                     freshpadForm.freshpadBox.SelectionLength = freshpadFindTxt.Text.Length;
                 }
-            }
+            }*/
         }
     }
 }

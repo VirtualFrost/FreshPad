@@ -11,3 +11,13 @@ C:\Users\br3tt\Dropbox\Coding\Visual Studio 2015\C#\FreshPad\FreshPad\obj\Debug\
 C:\Users\br3tt\Dropbox\Coding\Visual Studio 2015\C#\FreshPad\FreshPad\obj\Debug\FreshPad.freshpadFind.resources
 C:\Users\br3tt\Dropbox\Coding\Visual Studio 2015\C#\FreshPad\FreshPad\bin\Debug\VirtualPad.exe.config
 C:\Users\br3tt\Source\Repos\FreshPad\FreshPad\bin\Debug\VirtualPad.exe.config
+C:\Users\br3tt\Source\Repos\FreshPad\FreshPad\obj\Debug\FreshPad.csprojResolveAssemblyReference.cache
+C:\Users\br3tt\Source\Repos\FreshPad\FreshPad\obj\Debug\FreshPad.FreshPad.resources
+C:\Users\br3tt\Source\Repos\FreshPad\FreshPad\obj\Debug\FreshPad.freshpadFind.resources
+C:\Users\br3tt\Source\Repos\FreshPad\FreshPad\obj\Debug\FreshPad.freshpadPrefForm.resources
+C:\Users\br3tt\Source\Repos\FreshPad\FreshPad\obj\Debug\VirtualPad.Properties.Resources.resources
+C:\Users\br3tt\Source\Repos\FreshPad\FreshPad\obj\Debug\FreshPad.csproj.GenerateResource.Cache
+C:\Users\br3tt\Source\Repos\FreshPad\FreshPad\bin\Debug\VirtualPad.exe
+C:\Users\br3tt\Source\Repos\FreshPad\FreshPad\bin\Debug\VirtualPad.pdb
+C:\Users\br3tt\Source\Repos\FreshPad\FreshPad\obj\Debug\VirtualPad.exe
+C:\Users\br3tt\Source\Repos\FreshPad\FreshPad\obj\Debug\VirtualPad.pdb

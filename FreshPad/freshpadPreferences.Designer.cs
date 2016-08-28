@@ -144,7 +144,7 @@
         }
 
         #endregion
-
+        private FreshPad _fpForm;
         private System.Windows.Forms.GroupBox fontPanel;
         private System.Windows.Forms.Label prefFontSizeLbl;
         private System.Windows.Forms.ComboBox fontSizeBox;
