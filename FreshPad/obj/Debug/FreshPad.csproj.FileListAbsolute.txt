@@ -21,3 +21,6 @@ C:\Users\br3tt\Source\Repos\FreshPad\FreshPad\bin\Debug\VirtualPad.exe
 C:\Users\br3tt\Source\Repos\FreshPad\FreshPad\bin\Debug\VirtualPad.pdb
 C:\Users\br3tt\Source\Repos\FreshPad\FreshPad\obj\Debug\VirtualPad.exe
 C:\Users\br3tt\Source\Repos\FreshPad\FreshPad\obj\Debug\VirtualPad.pdb
+C:\Users\br3tt\Source\Repos\FreshPad\FreshPad\bin\Debug\FreshPad.exe.config
+C:\Users\br3tt\Source\Repos\FreshPad\FreshPad\obj\Debug\FreshPad.exe
+C:\Users\br3tt\Source\Repos\FreshPad\FreshPad\obj\Debug\FreshPad.pdb
